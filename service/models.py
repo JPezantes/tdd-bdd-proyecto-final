@@ -16,7 +16,6 @@
 Models for Product Demo Service
 
 All of the models are stored in this module
-
 Models
 ------
 Product - A Product used in the Product Store
